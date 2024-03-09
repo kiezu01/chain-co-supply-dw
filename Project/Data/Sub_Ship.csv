@@ -1,0 +1,27 @@
+Days for shipping (real),Days for shipment (scheduled),Delivery Status,Shipping Mode,Ship Id
+3,4,Advance shipping,Standard Class,713488
+5,4,Late delivery,Standard Class,628257
+4,4,Shipping on time,Standard Class,150081
+2,4,Advance shipping,Standard Class,836751
+6,4,Shipping canceled,Standard Class,506391
+2,1,Late delivery,First Class,979778
+3,2,Late delivery,Second Class,734269
+6,2,Shipping canceled,Second Class,124513
+5,2,Late delivery,Second Class,856770
+4,2,Late delivery,Second Class,173936
+0,0,Shipping on time,Same Day,604623
+3,2,Shipping canceled,Second Class,530583
+2,2,Shipping canceled,Second Class,427782
+6,2,Late delivery,Second Class,903178
+6,4,Late delivery,Standard Class,791359
+1,0,Late delivery,Same Day,176557
+1,0,Shipping canceled,Same Day,219043
+2,2,Shipping on time,Second Class,124148
+5,4,Shipping canceled,Standard Class,414858
+2,4,Shipping canceled,Standard Class,312072
+3,4,Shipping canceled,Standard Class,868597
+4,4,Shipping canceled,Standard Class,325417
+5,2,Shipping canceled,Second Class,259634
+2,1,Shipping canceled,First Class,712284
+0,0,Shipping canceled,Same Day,320599
+4,2,Shipping canceled,Second Class,197684
